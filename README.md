@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ulises</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate CS Student @ CU Boulder</h3>
 
 - 🔭 I’m currently working on [SHPE CU Website](https://shpecu.netlify.app/)
 
